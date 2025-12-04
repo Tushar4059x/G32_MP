@@ -1,0 +1,44 @@
+# Dataset files (too large for GitHub)
+pneumonia-major-dataset.zip
+trial-1/chest_xray/
+
+# macOS files
+.DS_Store
+**/.DS_Store
+**/__MACOSX/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Flower
+.flwr/
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
