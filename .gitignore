@@ -1,6 +1,6 @@
 # Dataset files (too large for GitHub)
 pneumonia-major-dataset.zip
-trial-1/chest_xray/
+main/chest_xray/
 
 # macOS files
 .DS_Store
