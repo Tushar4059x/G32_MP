@@ -25,7 +25,7 @@ The chest X-ray dataset is not included in this repository due to size constrain
 ## Project Structure
 
 - `trial-1/` - Main project directory
-  - `trial_1/` - Source code
+  - `main/` - Source code
     - `task.py` - Model and training logic
     - `client_app.py` - Federated learning client
     - `server_app.py` - Federated learning server
